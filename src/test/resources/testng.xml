@@ -1,0 +1,7 @@
+<suite name="REST Assured test examples">
+    <test name="All">
+        <packages>
+            <package name="psrestassured.m8codeorg.ratelimit.*"/>
+        </packages>
+    </test>
+</suite>
